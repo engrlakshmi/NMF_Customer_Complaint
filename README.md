@@ -13,6 +13,9 @@ You can either assign the topic with the highest value or set a threshold to con
 
 #Objective of present study:
 
-Analyzing customer complaints related to a bank involves understanding the concerns and issues raised by customers in their feedback(Data source : https://www.consumerfinance.gov/data-research/consumer-complaints/).
-A customer complaint analysis on bank-related data is performed using the NMF technique in Python.
-The analysis and insights derived from the study help banks address key customer concerns more effectively and improve their services.
+1. Analyzing customer complaints related to a bank involves understanding the concerns and issues raised by customers in their feedback(Data source : https://www.consumerfinance.gov/data-research/consumer-complaints/).
+
+   #Insights
+1. A customer complaint analysis on bank-related data is performed using the NMF technique in Python.
+2. The analysis and insights derived from the study help banks address key customer concerns more effectively and improve their services.
+
